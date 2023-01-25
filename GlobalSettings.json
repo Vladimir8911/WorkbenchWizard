@@ -1,6 +1,7 @@
 {
-    "PackedModFolder":  "S:\\Mod-Packed\\@FirstMod",
-    "ModSourceFolder":  "S:\\Mod-Source\\FirstMod",
-    "ModName":  "FirstMod",
-    "GameFolder":  "S:\\Steam\\steamapps\\common\\DayZ"
+    "ProjectDrive":  "P:",
+    "ModSourceFolder":  "P:\\FirstMod",
+    "PackedModFolder":  "P:\\@FirstMod",
+    "GameFolder":  "C:\\Program Files (x86)\\Steam\\steamapps\\common\\DayZ",
+    "ModName":  "FirstMod"
 }
